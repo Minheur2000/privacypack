@@ -9,6 +9,8 @@
 .yarn/build-state.yml
 .yarn/install-state.gz
 
+.idea/
+
 # Build / test artifacts
 /.next/
 /out/
